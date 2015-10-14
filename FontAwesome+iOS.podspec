@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FontAwesome+iOS"
-  s.version      = "0.0.2"
+  s.version      = "0.1.5"
   s.summary      = "Category that makes FontAwesome even easier for iOS."
   s.homepage     = "https://github.com/alexdrone/ios-fontawesome"
   s.license      = {
