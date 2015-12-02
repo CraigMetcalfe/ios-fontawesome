@@ -645,7 +645,28 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FAtripadvisor,
     FAvimeo,
     FAwikipediaW,
-    FAyCombinator
+    FAyCombinator,
+
+    /* FontAwesome ver 4.5.0 */
+    FABluetooth,
+    FABluetoothB,
+    FACodiepie,
+    FACreditCardAlt,
+    FAEdge,
+    FAHashtag,
+    FAMixcloud,
+    FAModx,
+    FAPauseCircle,
+    FAPauseCircleO,
+    FAPercent,
+    FAProductHunt,
+    FARedditAlien,
+    FAScribd,
+    FAShoppingBag,
+    FAShoppingBasket,
+    FAStopCircle,
+    FAStopCircleO,
+    FAUSB
 };
 
 
