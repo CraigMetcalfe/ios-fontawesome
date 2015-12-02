@@ -653,6 +653,7 @@ typedef NS_ENUM(NSInteger, FAIcon) {
     FACodiepie,
     FACreditCardAlt,
     FAEdge,
+    FAFontAwesome,
     FAHashtag,
     FAMixcloud,
     FAModx,

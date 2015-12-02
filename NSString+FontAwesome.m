@@ -698,6 +698,7 @@
         tmp[@"fa-codiepie"]             = @(FACodiepie);
         tmp[@"fa-credit-card-alt"]      = @(FACreditCardAlt);
         tmp[@"fa-edge"]                 = @(FAEdge);
+        tmp[@"fa-font-awesome"]         = @(FAFontAwesome);
         tmp[@"fa-hashtag"]              = @(FAHashtag);
         tmp[@"fa-mixcloud"]             = @(FAMixcloud);
         tmp[@"fa-modx"]                 = @(FAModx);
